@@ -1,0 +1,89 @@
+#logo{
+    display: flex;
+    padding: 0%;
+    gap: 5px;
+    float: left;
+    font-size: small;
+}
+#margin{
+    margin: 0%;
+}
+#navbars{
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+   margin: 1%;
+    float: inline-start;
+}
+#home{
+    border: solid white 1px;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+}
+#right-navbar{
+    display: flex;
+    gap: 20px;
+    margin: 1%;
+}
+#search{
+    padding: 4px 0px 0px 0px;
+    color: white;
+}
+#right-navbar{
+    display: flex;
+    gap: 400px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 5px 8px 20px;
+    color: white;
+    background-color: black;
+}
+#shoe-hand{
+    border-image: 10px;
+    margin: 30px;
+}
+#lists{
+    display: flex;
+    color: white;
+    gap: 10%;
+    padding: 10px 10px 5px 30px;
+    background-color: ;
+}
+#footer{
+    display: flex;
+    gap: 150px;
+    padding: 50px;
+    color: white;
+    background-color: black;
+}
+#line{
+    color: white;
+}
+#copyright{
+    display: flex;
+}
+#right{
+    display: flex;
+    gap: 40px;
+}
+#icon{
+    display: flex;
+    gap: 5px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 5px;
+    left: 50px;
+    font-size: 400%;
+    color: white;
+  }
+  .Images{
+      display: flex;
+      width: 50%;
+      height: 50%
+  }
+
+
+  
